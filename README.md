@@ -11,3 +11,7 @@ Hi, I'm Athira 👩‍💻
 💡 Passionate about building smart, user-friendly solutions that solve real problems
 
 📫 Always open to collaboration and new ideas!
+
+[![Athira Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=athiraarun06&theme=dark&show_icons=true)]
+(https://github.com/anuraghazra/github-readme-stats)
+
