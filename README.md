@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Athira 👩‍💻
 
-<!--
-**athiraarun06/athiraarun06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing my B.Tech in Computer Science Engineering at Karunya University
 
-Here are some ideas to get you started:
+🔭 Working on AI-powered voice assistants, career guidance chatbots, and other real-world AI projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Deeply interested in Generative AI, LLMs, and everything that pushes the boundaries of artificial intelligence
+
+🌱 Learning Machine Learning, NLP, and Web Development
+
+💡 Passionate about building smart, user-friendly solutions that solve real problems
+
+📫 Always open to collaboration and new ideas!
