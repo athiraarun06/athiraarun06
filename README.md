@@ -2,7 +2,7 @@
 <!--                 ANIMATED INTRO SECTION                -->
 <!-- ===================================================== -->
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/athiraarun06">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=7CFFB2&center=true&vCenter=true&width=900&lines=Building+AI+That+Feels+Alive;Future+Engineer+Crafting+Smart+Tech;Turning+Ideas+Into+Intelligent+Systems;Exploring+LLMs%2C+NLP%2C+Voice+AI+%26+ML" alt="Typing Animation" />
   </a>
