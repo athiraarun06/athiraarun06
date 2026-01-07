@@ -39,6 +39,7 @@ Here are some of the repositories / projects I’ve built and worked on 👇
 |--------|-------------|
 | **<a href="https://github.com/athiraarun06/CAREER_GUIDANCE_CHATBOT">Career-Guidance-Chatbot</a>** | This is a smart, interactive chatbot designed to help 10th grade students choose the most suitable career path and stream based on their personal preferences, skills, and interests. It uses Python (Flask) for backend logic, a Gemma:2B language model (via Ollama) for summaries, and a clean HTML/CSS UI with no JavaScript.|
 | **<a href="https://github.com/athiraarun06/BUS-DRIVER-ALERT-SYSTEM">Bus-Driver-Alert-System-IOT</a>** | A safety system built using Arduino UNO that automatically detects and counts children entering and exiting a school bus using ultrasonic sensors. If any child is left behind when the engine is turned off, the system triggers buzzer and LED alerts.  |
+| **<a href="https://github.com/athiraarun06/Emotion-Detector">Emotion-Detector</a>** |A real-time Face Emotion Detection system that captures live webcam video, detects faces, and predicts the dominant emotion (Happy, Sad, Angry, Surprise, Neutral, etc.) using Deep Learning. Fully optimized for Apple Silicon (M1 / M2 / M3 / M4) macOS devices.|
 
 
 
