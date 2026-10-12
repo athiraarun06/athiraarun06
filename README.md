@@ -58,11 +58,6 @@ AI-powered Applicant Tracking System enhancement built on Frappe HR to streamlin
 
 BrainTumorAI-Pro is an AI-powered medical image classification system designed to explore how deep learning can assist in the analysis of brain MRI scans.
 
-
-Python TensorFlow Keras License Status
-
-
-accuracy classes dataset architecture
 `Python` `TensorFlow` `Keras` `CNN` 
 
 </td>
