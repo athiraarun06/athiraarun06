@@ -56,7 +56,9 @@ AI-powered Applicant Tracking System enhancement built on Frappe HR to streamlin
 
 ### 🎯 [Brain Tumor AI](https://github.com/athiraarun06/BrainTumorAI)
 
-Interactive chatbot helping 10th-grade students choose the right career path and stream based on their interests and skills, powered by a local Gemma:2B LLM via Ollama.
+BrainTumorAI-Pro is an AI-powered medical image classification system designed to explore how deep learning can assist in the analysis of brain MRI scans.
+
+
 
 `Python` `Flask` `Gemma:2B` `Ollama` `LLM`
 
