@@ -54,7 +54,7 @@ AI-powered Applicant Tracking System enhancement built on Frappe HR to streamlin
 </td>
 <td width="33%" valign="top">
 
-### 🎯 [Career Guidance Chatbot](https://github.com/athiraarun06/CAREER_GUIDANCE_CHATBOT)
+### 🎯 [Brain Tumor AI](https://github.com/athiraarun06/BrainTumorAI)
 
 Interactive chatbot helping 10th-grade students choose the right career path and stream based on their interests and skills, powered by a local Gemma:2B LLM via Ollama.
 
