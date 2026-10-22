@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/athira-arun-168a96332/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:athiraarun@karunya.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/athiraarun._?igsh=NGx0YnA3ZDBiaHA4&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=athiraarun06&style=for-the-badge&color=7CFFB2" alt="Profile views" />
+  <img src="https://portfolio-athiraarun.vercel.app/" alt="Portfolio"/>
 </p>
 
 ---
